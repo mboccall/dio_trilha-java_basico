@@ -35,7 +35,7 @@ public class Operadores {
 
         String resultado = (a==b) ? "verdadeiro" : "false";
 
-        System.out.println(valor);
+        System.out.println(resultado);
 
 
     }
